@@ -26,7 +26,7 @@ This library supports the following PHP implementations:
 - PHP 8.0
 - PHP 8.1
 - PHP 8.2
-- PHP 8.3
+- PHP 8.3.0
 
 ## Installation
 
